@@ -2,7 +2,7 @@
 
 **Founder & Director at Galekt Labs® | Director of Technology at Platform OMS**
 
-So here's my story... I've been building software and engineering solutions for over 11 years now, and honestly? It's been quite the journey working with some incredible companies like OpenAI, Turing, NOQ, Monoly, BioFlow, and Prismanote.
+I've been building software and engineering solutions for over 11 years now. It's been quite the journey working with some incredible companies like OpenAI, Turing, NOQ, Monoly, BioFlow, and Prismanote.
 
 ## What I'm all about
 
@@ -39,9 +39,9 @@ const bhushan = {
 
 ## Let's connect
 
-- **LinkedIn:** [Connect with me](your-linkedin-url)
-- **Website:** [Galekt Labs](your-website-url)
-- **Email:** [Get in touch](mailto:your-email)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhushankalvani/)
+- **Website:** [Galekt Labs](https://galekt.com)
+- **Email:** [Get in touch](mailto:contact@galekt.com)
 
 **Fun fact:** I believe the best technology is the kind that makes complex things feel effortless. That's what drives every line of code I write!
 
