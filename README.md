@@ -1,15 +1,50 @@
-[![](https://visitcount.itsvg.in/api?id=bhushankalvani&icon=0&color=6)](https://visitcount.itsvg.in)
+# Hey there, I'm Bhushan!
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhushankalvani&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankalvani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=bhushankalvani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) -->
+**Founder & Director at Galekt Labs® | Director of Technology at Platform OMS**
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+So here's my story... I've been building software and engineering solutions for over 11 years now, and honestly? It's been quite the journey working with some incredible companies like OpenAI, Turing, NOQ, Monoly, BioFlow, and Prismanote.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## What I'm all about
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushankalvani)
+I'm passionate about creating technology that actually works for real people doing real work. You know, the kind of software that makes teams feel empowered instead of frustrated. That's exactly why I started **Galekt Labs** - to bring thoughtful engineering to businesses who deserve technology that truly serves them.
+
+## What I'm working on
+
+**Currently building:**
+- Custom software solutions that solve today's challenges and scale for tomorrow
+- Mobile apps that people genuinely want to use (not just tolerate!)
+- Process automation that eliminates the boring stuff
+- Cloud applications designed for real-world growth
+
+## My tech stack
+
+```javascript
+const bhushan = {
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    frontend: ["React", "Next.js", "React Native"],
+    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+    cloud: ["AWS", "Docker", "Kubernetes"],
+    tools: ["Git", "VS Code", "Postman", "Figma"]
+}
+```
+
+## Companies I've worked with
+
+- **OpenAI** - AI/ML solutions
+- **Turing** - Remote engineering talent
+- **NOQ** - Events management (helped secure six-figure funding!)
+- **Monoly** - Business automation
+- **BioFlow** - Healthcare solutions
+- **Prismanote** - Productivity tools
+
+## Let's connect
+
+- **LinkedIn:** [Connect with me](your-linkedin-url)
+- **Website:** [Galekt Labs](your-website-url)
+- **Email:** [Get in touch](mailto:your-email)
+
+**Fun fact:** I believe the best technology is the kind that makes complex things feel effortless. That's what drives every line of code I write!
+
+---
+
+*"Engineering business capabilities that solve your today, scale tomorrow"*
