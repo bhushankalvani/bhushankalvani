@@ -35,7 +35,7 @@ const bhushan = {
 - **NOQ** - Events management (helped secure six-figure funding!)
 - **Monoly** - Business automation
 - **BioFlow** - Healthcare solutions
-- **Prismanote** - Productivity tools
+- **Prismanote** - Online store management - jewellers and watches
 
 ## Let's connect
 
